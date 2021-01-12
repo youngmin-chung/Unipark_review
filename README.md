@@ -1,6 +1,6 @@
 # Program: Computer Programming & Analysis in Fanshawe College
-#Course: INFO-5103 Software Projects-Applied 2
-#Name: CPA Dream Team (Will, Teran, Jason, Alvin, Jing and Young)
+# Course: INFO-5103 Software Projects-Applied 2
+# Name: CPA Dream Team (Will, Teran, Jason, Alvin, Jing and Young)
 
 #Application Description
 · Developed a full stack Airbnb style parking application\
