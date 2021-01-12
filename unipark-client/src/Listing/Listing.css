@@ -1,0 +1,98 @@
+.listing_parking {
+    min-height: 100vh;
+    text-align: center;
+}
+.listing_parking_section {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.listing_parking_card_media {
+    height: 250px;
+}
+.listing_parking_card {
+    max-width: 345PX;
+    min-height: 440px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.listing_parking_card_content {
+    min-height: 120px;
+}
+
+
+/* ImageModal */
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.backdrop img {
+    display: block;
+    max-width: 80%;
+    max-height: 80%;
+    margin: 200px auto;
+    box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+    border: 3px solid white;
+}
+
+
+
+/* Search */
+.add_container {
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-items: end;
+}
+.add_icon {
+    align-self: flex-end;
+    margin-bottom: 5px;
+}
+.search_text_field {
+    width: 200px;
+    margin: 5px;
+}
+
+.photo_add_button {
+    margin-left: 10px;
+}
+
+.parking_lot_cost {
+    margin-bottom: 20px;
+}
+
+.parking_lot_photo {
+    margin-bottom: 20px;
+}
+
+
+/* Dropzone */
+.dropzone {
+    border: dashed 3px;
+    border-color: #eee;
+    border-radius: 5px;
+    padding-top: 30px;
+    text-align: center;
+    height: 200px;
+}
+
+.dropzone_active {
+    border: dashed 3px;
+    border-color: green;
+    border-radius: 5px;
+    padding-top: 30px;
+    text-align: center;
+    height: 200px;
+}

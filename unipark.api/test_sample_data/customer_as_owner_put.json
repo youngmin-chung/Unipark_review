@@ -1,0 +1,27 @@
+{
+    "PhoneNumber": "(226)700-0081",
+    "EmergencyContact": "(226)700-0081",
+    "VerifiedDocImage": "",
+    "IsDriver": true,
+    "IsOwner": true,
+    "CurrentCustomerMode": 1,
+    "ParkingLots": [
+      {
+        "Title": "occaecat Lorem",
+        "DateTimeIn": "2020-11-03",
+        "DateTimeOut": "2020-11-15",
+        "City": "Toronto",
+        "Address": "1000 Oxford Rd.",
+        "PostalCode": "N5U 8L0",
+        "Description": "Velit irure irure deserunt ad eu consequat non veniam. Labore sunt fugiat commodo eiusmod commodo cupidatat dolore id consequat. Magna non mollit aute sunt officia cillum sint quis deserunt voluptate adipisicing eiusmod esse. Adipisicing anim anim tempor mollit nulla voluptate. Reprehenderit id reprehenderit adipisicing labore. Laborum minim veniam magna excepteur eiusmod sit eiusmod excepteur ut. Ad cupidatat veniam ut sint et.\r\n",
+        "NumberOfSlots": 1,
+        "IsAvailable": true,
+        "Photos": [
+          {
+            "Url": "https://randomuser.me/api/portraits/men/92.jpg",
+            "IsMain": true
+          }
+        ]
+      }
+    ]
+}

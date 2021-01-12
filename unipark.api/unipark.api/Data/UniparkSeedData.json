@@ -1,0 +1,182 @@
+[
+  {
+    "FirstName": "Mike",
+    "LastName": "Mair",
+    "PhoneNumber": "(810) 485-2459",
+    "EmergencyContact": "(992) 579-3964",
+    "VerifiedDocImage": "http://placehold.it/500x650",
+    "IsVerified": true,
+    "Email": "mike@gmail.com",
+    "PasswordHash": "1q2w3e4R5T6Y",
+    "IsPasswordReset": false,
+    "IsDriver": true,
+    "IsOwner": true,
+    "Ranking": 2.92,
+    "CurrentUserMode": 0,
+    "ParkingLots": [
+      {
+        "Title": "Beautiful Driveway for You",
+        "DateTimeIn": "2020-12-03",
+        "DateTimeOut": "2020-12-15",
+        "City": "London",
+        "Address": "1000 Oxford St E.",
+        "PostalCode": "N5Y 3K7",
+        "Description": "Enjoy London with a clean driveway from great shopping & more. Located in downtown, you can avoid expensive parking fee by choosing my driveway.\r\n",
+        "NumberOfSlots": 1,
+        "IsAvailable": true,
+        "PhotoUrl": "https://github.com/youngmin-chung/capture/blob/master/parking_images00.jpg?raw=true",
+        "latitude": 43.004700,
+        "longitude": -81.222400,
+        "Price": {
+          "DayOfWeek": 0,
+          "MorningPrice": 3.0,
+          "AfternoonPrice": 2.0,
+          "EveningPrice": 5.0,
+          "WholeDayPrice": 12.0,
+          "PricePerHour": 4.0
+        },
+        "Photos": [
+          {
+            "Url": "https://github.com/youngmin-chung/capture/blob/master/parking_images00.jpg?raw=true",
+            "IsMain": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "FirstName": "Jack",
+    "LastName": "Hurley",
+    "PhoneNumber": "(993) 556-3786",
+    "EmergencyContact": "(854) 587-3298",
+    "VerifiedDocImage": "http://placehold.it/500x650",
+    "IsVerified": true,
+    "Email": "jack@gmail.com",
+    "PasswordHash": "1q2w3e4R5T6Y",
+    "IsPasswordReset": false,
+    "IsDriver": false,
+    "IsOwner": true,
+    "Ranking": 1.23,
+    "CurrentUserMode": 0,
+    "ParkingLots": [
+      {
+        "Title": "Cute car for compact space",
+        "DateTimeIn": "2020-12-02",
+        "DateTimeOut": "2020-12-30",
+        "City": "London",
+        "Address": "500 Talbot St.",
+        "PostalCode": "N6A 2S3",
+        "Description": "My driveway is located near downtown in London. It has enough spaces, even if your car is a mini van.\r\n",
+        "NumberOfSlots": 1,
+        "IsAvailable": true,
+        "PhotoUrl": "https://github.com/youngmin-chung/capture/blob/master/parking_images02.jpg?raw=true",
+        "latitude": 42.985748,
+        "longitude": -81.252762,
+        "Price": {
+          "DayOfWeek": 0,
+          "MorningPrice": 3.0,
+          "AfternoonPrice": 2.0,
+          "EveningPrice": 5.0,
+          "WholeDayPrice": 13.0,
+          "PricePerHour": 3.5
+        },
+        "Photos": [
+          {
+            "Url": "https://github.com/youngmin-chung/capture/blob/master/parking_images02.jpg?raw=true",
+            "IsMain": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "FirstName": "Evan",
+    "LastName": "Lauersen",
+    "PhoneNumber": "(993) 556-3786",
+    "EmergencyContact": "(854) 587-3298",
+    "VerifiedDocImage": "http://placehold.it/500x650",
+    "IsVerified": true,
+    "Email": "evan@gmail.com",
+    "PasswordHash": "Abc1234!",
+    "IsPasswordReset": false,
+    "IsDriver": false,
+    "IsOwner": true,
+    "Ranking": 3.23,
+    "CurrentUserMode": 0,
+    "ParkingLots": [
+      {
+        "Title": "Like your private parking",
+        "DateTimeIn": "2020-12-02",
+        "DateTimeOut": "2020-12-30",
+        "City": "London",
+        "Address": "21 Wharncliffe Rd S",
+        "PostalCode": "N6J 4G5",
+        "Description": "Comfortable private places, nearby downtown.",
+        "NumberOfSlots": 1,
+        "IsAvailable": true,
+        "PhotoUrl": "https://github.com/youngmin-chung/capture/blob/master/parking_images03.jpg?raw=true",
+        "latitude": 42.979000,
+        "longitude": -81.262900,
+        "Price": {
+          "DayOfWeek": 0,
+          "MorningPrice": 3.0,
+          "AfternoonPrice": 2.0,
+          "EveningPrice": 5.0,
+          "WholeDayPrice": 13.0,
+          "PricePerHour": 3.5
+        },
+        "Photos": [
+          {
+            "Url": "https://github.com/youngmin-chung/capture/blob/master/parking_images03.jpg?raw=true",
+            "IsMain": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "FirstName": "Lianne",
+    "LastName": "Wong",
+    "PhoneNumber": "(993) 556-3786",
+    "EmergencyContact": "(854) 587-3298",
+    "VerifiedDocImage": "http://placehold.it/500x650",
+    "IsVerified": true,
+    "Email": "lianne@gmail.com",
+    "PasswordHash": "Abc1234!",
+    "IsPasswordReset": false,
+    "IsDriver": false,
+    "IsOwner": true,
+    "Ranking": 2.23,
+    "CurrentUserMode": 0,
+    "ParkingLots": [
+      {
+        "Title": "Broaden space for huge car",
+        "DateTimeIn": "2020-12-02",
+        "DateTimeOut": "2020-12-30",
+        "City": "London",
+        "Address": "1151 Richmond St",
+        "PostalCode": "N6A 3K7",
+        "Description": "Or your super car can park here to be safely",
+        "NumberOfSlots": 1,
+        "IsAvailable": true,
+        "PhotoUrl": "https://github.com/youngmin-chung/capture/blob/master/parking_images04.jpg?raw=true",
+        "latitude": 43.008701,
+        "longitude": -81.263496,
+        "Price": {
+          "DayOfWeek": 0,
+          "MorningPrice": 3.0,
+          "AfternoonPrice": 2.0,
+          "EveningPrice": 5.0,
+          "WholeDayPrice": 13.0,
+          "PricePerHour": 3.5
+        },
+        "Photos": [
+          {
+            "Url": "https://github.com/youngmin-chung/capture/blob/master/parking_images04.jpg?raw=true",
+            "IsMain": true
+          }
+        ]
+      }
+    ]
+  }
+]

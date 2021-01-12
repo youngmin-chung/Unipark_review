@@ -1,0 +1,17 @@
+{
+    "PhoneNumber": "(226)700-0081",
+    "EmergencyContact": "(226)700-0081",
+    "IsDriver": true,
+    "IsOwner": true,
+    "CurrentCustomerMode": 0,
+    "Vehicles": [
+        {
+            "PlateNumber": "SES020",
+            "Year": "2009",
+            "Make": "Honda",
+            "Model": "Civic",
+            "Color": "Red"
+        }
+       
+    ]
+}

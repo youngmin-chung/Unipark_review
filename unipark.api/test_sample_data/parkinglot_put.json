@@ -1,0 +1,12 @@
+{
+    "Title": "A clean and safe drive way",
+    "PhotoUrl": "https://randomuser.me/api/portraits/men/92.jpg",
+    "DateTimeIn": "2020-10-29",
+    "DateTimeOut": "2020-11-10",
+    "City": "London",
+    "Address": "342 St. Thomas st.",
+    "PostalCode": "N6A 1Z2",
+    "Description": "A clean and safe drive way near downtown",
+    "NumberOfSlots": 2,
+    "IsAvailable": true
+}

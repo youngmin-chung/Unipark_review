@@ -1,0 +1,44 @@
+// https://www.json-generator.com/
+
+
+[
+  '{{repeat(5, 7)}}',
+  {
+     FirstName: '{{firstName("male")}}',
+	LastName: 'Catallo',
+	PhoneNumber: '+1 {{phone()}}',
+	EmergencyContact: '+1 {{phone()}}',
+	VerifiedDocImage: 'http://placehold.it/32x32',
+	IsVerified: '{{bool()}}',
+	Email: '{{email()}}',
+    Password: 'password',
+	IsPasswordReset: '{{bool()}}',
+	IsDriver: '{{bool()}}',
+	IsOwner: '{{bool()}}',
+	Ranking: '{{floating(1, 5, 2)}}',
+	CustomerMode: '0',
+    
+    ParkingLots: [
+		{
+			Title: '{{lorem(2, "words")}}',
+			StartDate: '{{date(new Date(1970,0,1), new Date(2012, 11, 31), "YYYY-MM-dd")}}',
+			EndDate: '{{date(new Date(1970,0,1), new Date(2012, 11, 31), "YYYY-MM-dd")}}',
+			City:'{{city()}}',
+			Address: '{{integer(100, 999)}} {{street()}}',
+			PostalCode: 'N6A-1X5',
+			Description: '{{lorem(1, "paragraphs")}}',
+			NumberOfSlots: 1,
+			IsAvailable: '{{bool()}}',
+          
+          	Photos: [
+        		{
+                  Url: function(num) {
+                  return 'https://randomuser.me/api/portraits/men/' + num.integer(1,99) + '.jpg';
+                  },
+        			IsMain: true
+      			}
+    		]
+		}
+	]  
+  }
+]

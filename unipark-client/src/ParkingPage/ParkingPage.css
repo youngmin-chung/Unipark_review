@@ -1,0 +1,43 @@
+.searchParkingPage_info {
+    padding: 20px;
+}
+
+.searchParkingPage_info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.searchParkingPage_info > h1 {
+    margin-bottom: 30px;
+}
+
+.searchParkingPage_info > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
+
+.search_row {
+    display: flex;
+}
+.search_row > h1 {
+    margin-right: 50px;
+}
+
+.search_row > Button {
+    margin-right: 50px;
+}
+.showmap_btn {
+    float: right;
+}
+.column {
+    float: left;
+}
+
+.left {
+    width: 70%;
+}
+
+.right {
+    width: 30%;
+}

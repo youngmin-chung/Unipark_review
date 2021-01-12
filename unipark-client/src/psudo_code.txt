@@ -1,0 +1,9 @@
+      {/* Home */}
+            {/* Header */}
+            {/* Banner */}
+            {/* Search */}
+            {/* Cards */}
+      {/* Search Page */}
+            {/* ... */}
+      {/* Footer */}
+

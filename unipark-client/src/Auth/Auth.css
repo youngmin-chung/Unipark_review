@@ -1,0 +1,45 @@
+.auth_container {
+    margin-top: 100px;
+    min-height: 100vh;
+}
+.auth_card {
+    position: relative;
+    width: 100%;
+    max-width: 320px;
+    padding: 15px;
+    margin: auto;
+    align-items: center;
+}
+
+.auth_card_content {
+    margin-left: 15%;
+}
+
+.auth_container h6 {
+    font-size: 0.9em;
+    margin-top: 20px;
+}
+
+.auth_container ul {
+    list-style: none;
+    overflow: hidden;
+    padding-right: 0;
+    margin: 0;
+}
+
+.auth_container li {
+    padding: 10px 15px;
+    font-weight: 500;
+    display: inline;
+    font-size: 12px;
+    color: #7986cb;
+}
+
+.auth_container li:hover {
+    color: #303f9f;
+}
+
+
+.auth_container TextField {
+    width: 82%;
+}

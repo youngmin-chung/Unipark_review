@@ -1,0 +1,53 @@
+.Search {
+  position: absolute;
+  top: 35px;
+  left: 40%;
+  width: 50vw;
+}
+
+.Search > button {
+  position: absolute;
+  left: 0;
+  top: 239px;
+  text-transform: inherit !important;
+  background-color: #7780ff;
+  color: white;
+  width: 270px;
+}
+
+.Search > button:hover {
+  background-color: white;
+  color: #7780ff;
+}
+
+.header_center {
+  position: relative;
+  margin-left: -30px;
+  align-items: center;
+  max-width: fit-content;
+  padding: 10px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 999px;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.header_center > input {
+  border: none;
+  padding: 10px;
+  outline-width: 0;
+  width: 250px;
+}
+.date_picker {
+  background-color: white;
+  margin-top: 1%;
+  position: relative;
+  align-items: center;
+  max-width: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  width: 50vw;
+}
