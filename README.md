@@ -10,4 +10,4 @@
 ### Notice
 · Google map api key is needed. (line 53, /unipark-client/src/ParkingMap/ParkingMap.js)
 
-📄 &nbsp;Please have a look at my [Demo](https://youtu.be/AB_3jV6f98w) for more details about Unipark. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at our [Demo](https://youtu.be/AB_3jV6f98w) narrated by me for more details about Unipark. I'm open to feedback and suggestions!
