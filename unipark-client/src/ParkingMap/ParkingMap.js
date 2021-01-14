@@ -50,7 +50,7 @@ const ParkingMap = (props) => {
         <div style={{ height: "90vh", width: "100%" }}>
             <GoogleMapReact
                 bootstrapURLKeys={{
-                    key: "AIzaSyAIBhxRjnp2GKDwb6TEk94p-FvUR8j2T4Y",
+                    key: "GOOGLE_MAP_API_KEY_HERE",
                 }}
                 // SEARCH ADDRESS'S LAT & LON HERE
                 defaultCenter={{
