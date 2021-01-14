@@ -8,6 +8,6 @@
 · Effectively worked with six team members
 
 ### Notice
-· Google map api key is needed. (line 53, /unipark-client/src/ParkingMap/ParkingMap.js)\
+· Google map api key is needed. (line 53, /unipark-client/src/ParkingMap/ParkingMap.js)
 
 📄 &nbsp;Please have a look at my [Demo](https://youtu.be/AB_3jV6f98w) for more details about Unipark. I'm open to feedback and suggestions!
